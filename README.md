@@ -1,10 +1,9 @@
-# WEB102 Prework - *Name of App Here*
+# WEB102 Prework - Sea Monster
 
-Submitted by: **Your Name Here**
+Submitted by: **Abdelrahim Osman**
+Sea Monster is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-**Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
-
-Time spent: **X** hours spent in total
+Time spent: **15** hours spent in total
 
 ## Required Features
 
@@ -26,7 +25,8 @@ Here's a walkthrough of implemented features:
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with ScreenToGif 
+<img src=<video controls src="https://i.imgur.com/1BS7hN6.mp4"  title='Video Walkthrough' width='' alt='Video Walkthrough' /> 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -35,6 +35,10 @@ GIF created with ...
 ## Notes
 
 Describe any challenges encountered while building the app.
+
+I didn't understand the instructions when it came to opening with a live server and had ran the index.html file through a local port which didn't allow me to see the images later down the line (Challenge #3). I eventually figured it out by downloading the appropriate extension.
+
+This is also my first time working with html this extensivly as well as javaScript. Thankfully js is similar to java which made the transition smooth.
 
 ## License
 
